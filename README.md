@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyasprajnaana
+- 👋 Hi, I’m @shreyashemachandra
 - 👀 I’m interested in Embedded System Software Development
 - 🌱 I’m currently learning C, C++, Python
 - 📫 How to reach me:
