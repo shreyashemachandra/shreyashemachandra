@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shreyashemachandra
 - 👀 I’m interested in Embedded System Software Development
-- 🌱 I’m currently learning C, C++, Python
+- 👀 Experienced in C, C++(Novice), Git, Embedded C, Linux, Driver Development, Bare metal code.
+- 🌱 I’m currently learning Python, C++
 - 📫 How to reach me:
 Personal Mail: shreyas.hemachandran@gmail.com 
 Official Mail: shreyas.h@prajnaanatech.com
