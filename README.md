@@ -10,7 +10,7 @@
   LinkedIn: https://www.linkedin.com/in/shreyas-hemachandra/
    
 ## Experience
-- Lead Software Engineer - Embedded in Prajnaana Technologies Pvt Ltd., Bangalore, India
+- Lead Software Engineer - Embedded at @Prajnaana-Technologies (Prajnaana Technologies Pvt Ltd.), Bangalore, India
   - Dates Employed: July, 2021 – Present
 - Senior Embedded Software Engineer at AllGo Embedded Systems Pvt Ltd. now Visteon Corporation Inc., Bangalore, India
   - Total Duration 5 yrs 10 mos 
