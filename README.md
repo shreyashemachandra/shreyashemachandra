@@ -12,6 +12,10 @@
 ## Experience
 - Lead Software Engineer - Embedded at Prajnaana Technologies Pvt Ltd., Bangalore, India
   - Dates Employed: July, 2021 – Present
+- Embedded Software Consultant at Molex Inc., USA and Canada
+  - Dates Employed: March 2018 to August 2018 in Lisle, Illinois, USA.
+  - Dates Empliyed: November 2018 to February 2019 in Waterloo, Ontario, Canada.
+  - This was part of employment in AllGo Embedded Systems. 
 - Senior Embedded Software Engineer at AllGo Embedded Systems Pvt Ltd. now Visteon Corporation Inc., Bangalore, India
   - Total Duration 5 yrs 10 mos 
   - Date of Employed: October 2015 - July 2021
