@@ -2,8 +2,11 @@
 ## Intro
 - 👋 Hi, I’m @shreyashemachandra
 - 👀 I’m interested in Embedded System Software Development
-- 👀 Experienced in C, C++(Novice), Git, Embedded C, Linux, Driver Development, Bare metal code.
-- 🌱 I’m currently learning Python, C++
+- 👀 Experienced in Programming in C, C++(Novice), Java(Novice), Embedded C, Linux, Bash and Bare metal areas.
+- 👀 Experienced in USB 2.0, USB 3.0, USB 3.1, SD, I2C, SPI, UART, ETHERNET, Timers Driver Development 
+     on ARM(Cortext M4,M7,A53), MPC(PowerPC), Coldfire V6 and Propritery Cores such as (BlueICE).
+- 👀 Experienced maintaining code on Git and Project Management.
+- 🌱 I’m currently learning Python, C++ and Java.
 - 📫 How to reach me: <br />
   Personal Mail: shreyas.hemachandran@gmail.com <br />
   Official Mail: shreyas.h@prajnaanatech.com <br />
