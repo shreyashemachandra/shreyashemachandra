@@ -27,8 +27,8 @@
   - Date of Employed: October 2013 - December 2014
 
 ## Education
-- Centre for Development of Advanced Computing (C-DAC) | PG Certificate in System Software Development | 2014 – 2015
-- Visvesvaraya Technological University, Karnataka | Batchelors in Computer Science| 2009 – 2013
+- Centre for Development of Advanced Computing (C-DAC), Karnataka | PG Certificate in System Software Development | 2015
+- Visvesvaraya Technological University, Karnataka | Batchelors in Computer Science | 2009 – 2013
 
 <!---
 shreyasprajnaana/shreyasprajnaana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
