@@ -20,7 +20,7 @@
 - Software Engineer - IDS Next Pvt Ltd. (October 2013 - December 2014)
 
 ## Education
-- Fansher College, London, Ontario | Electronics and Embedded Systems Post-Grad Certificate | 2022
+- Fanshawe College, London, Ontario | Electronics and Embedded Systems Post-Grad Certificate | 2022
 - Centre for Development of Advanced Computing (C-DAC), Karnataka | PG Certificate in System Software Development | 2015
 - Visvesvaraya Technological University, Karnataka | Batchelors in Computer Science | 2009 – 2013
 
